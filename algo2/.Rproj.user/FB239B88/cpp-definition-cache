@@ -1,0 +1,98 @@
+[
+    {
+        "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+        "file_last_write": 1643235911.0,
+        "definitions": [
+            {
+                "usr": "c:@F@convertir#I#*{n6I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "convertir(int, int (*)[6])",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 21,
+                "column": 22
+            },
+            {
+                "usr": "c:@F@position#&$@N@std@N@__1@S@vector>#I#$@N@std@N@__1@S@allocator>#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "position(vector<int> &, int, int)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 49,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@score#$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#I#$@N@std@N@__1@S@allocator>#I#$@N@std@N@__1@S@allocator>#S1_#S1_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "score(vector<vector<int> >, vector<int>, int)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 61,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@mutation#&$@N@std@N@__1@S@vector>#I#$@N@std@N@__1@S@allocator>#I#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mutation(vector<int> &, double, int)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 72,
+                "column": 13
+            },
+            {
+                "usr": "c:@F@cptzero#$@N@std@N@__1@S@vector>#I#$@N@std@N@__1@S@allocator>#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cptzero(vector<int>, int)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 102,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@poszero#$@N@std@N@__1@S@vector>#I#$@N@std@N@__1@S@allocator>#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "poszero(vector<int>, int, int)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 117,
+                "column": 13
+            },
+            {
+                "usr": "c:@F@exitememe#$@N@std@N@__1@S@vector>#I#$@N@std@N@__1@S@allocator>#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "exitememe(vector<int>, int, int)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 134,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@projetdistribuer#$@N@std@N@__1@S@vector>#I#$@N@std@N@__1@S@allocator>#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "projetdistribuer(vector<int>, int, int)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 156,
+                "column": 13
+            },
+            {
+                "usr": "c:@F@studentProjectGenetique#$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#I#$@N@std@N@__1@S@allocator>#I#$@N@std@N@__1@S@allocator>#S1_#I#d#I#&S1_#&I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "studentProjectGenetique(vector<vector<int> >, int, double, int, vector<int> &, int &)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 184,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@main#I#**C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "main(int, char **)",
+                "file": "/Users/shurongzhang/Downloads/algo2/src/main-2.cpp",
+                "line": 323,
+                "column": 5
+            }
+        ]
+    }
+]
